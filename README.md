@@ -18,21 +18,6 @@ Este é um aplicativo Android desenvolvido em Kotlin utilizando Jetpack Compose,
 - **Arquitetura MVVM:** Padrão arquitetural para separar a lógica de negócios da interface do usuário.
 - **Coroutines:** Para manipulação assíncrona de tarefas.
 
-
-## Funcionalidades
-
-1. **Registrar um novo usuário:**
-    - Abra o aplicativo.
-    - Clique em "Registrar".
-    - Insira as informações necessárias e clique em "Registrar".
-
-2. **Login:**
-    - Abra o aplicativo.
-    - Insira suas credenciais e clique em "Login".
-
-3. **Gerenciar Notas:**
-    - Após o login, você pode criar, ler, atualizar e excluir notas.
-
 ## Screenshots
 
 <p align="center">
