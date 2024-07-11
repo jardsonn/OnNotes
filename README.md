@@ -1,6 +1,6 @@
 # OnNotes
 
-Este é um aplicativo Android desenvolvido em Kotlin utilizando Jetpack Compose, projetado para consumir uma [API de bloco de notas](https://github.com/jardsonn/notes-api) com funcionalidades de autenticação. O app permite aos usuários criar, ler, atualizar e excluir notas de forma segura.
+Este é um aplicativo Android desenvolvido em Kotlin utilizando Jetpack Compose, projetado para consumir uma [API de bloco de notas](https://github.com/jardsonn/notes-api) com funcionalidades de autenticação. O app permite aos usuários criar, ler, atualizar e excluir notas.
 
 ## Funcionalidades
 
@@ -36,10 +36,10 @@ Este é um aplicativo Android desenvolvido em Kotlin utilizando Jetpack Compose,
 ## Screenshots
 
 <p align="center">
-  <img src="./screenshots/Screenshot_welcome.png" width="19%" />
-  <img src="./screenshots/Screenshot_sign_in.png" width="19%" />
-  <img src="./screenshots/Screenshot_sign_up.png" width="19%" />
-  <img src="./screenshots/Screenshot_empty_home.png" width="19%" />
-  <img src="./screenshots/Screenshot_add_new_note.png" width="19%" />
-  <img src="./screenshots/Screenshot_home_notes.png" width="19%" />
+  <img src="./screenshots/Screenshot_welcome.png" width="16%" />
+  <img src="./screenshots/Screenshot_sign_in.png" width="16%" />
+  <img src="./screenshots/Screenshot_sign_up.png" width="16%" />
+  <img src="./screenshots/Screenshot_empty_home.png" width="16%" />
+  <img src="./screenshots/Screenshot_add_new_note.png" width="16%" />
+  <img src="./screenshots/Screenshot_home_notes.png" width="16%" />
 </p>
