@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">OnNotes</string>
+    <!--    <string name="wellcome_to_onnotes">Bem-vindo ao OnNotes</string>-->
+    <string name="wellcome_to_onnotes">Bem-vindo ao</string>
+    <string name="wellcome_to_onnotes_desc">É ótimo ter você conosco! Prepare-se para uma experiência incrível enquanto exploramos juntos tudo o que nosso app tem a oferecer.</string>
+    <string name="lets_start">Vamos Começar</string>
+    <string name="content_description_back">Voltar</string>
+    <string name="sign_in">Entrar</string>
+    <string name="email_placeholder">example@email.com</string>
+    <string name="email">E-mail</string>
+    <string name="signin_desc">Entre com seu dados para começar a fazer suas anotações</string>
+    <string name="signup_desc">Crie uma conta para começar a fazer suas anotações</string>
+    <string name="password">Senha</string>
+    <string name="type_your_password">Digite sua senha</string>
+    <string name="hide_password">Esconder senha</string>
+    <string name="show_password">Mostar senha</string>
+    <string name="new_to_one_notes">É novo no OnNotes?</string>
+    <string name="create_an_account">Criar uma conta</string>
+    <string name="this_field_is_mandatory">Esse campo é obrigatório</string>
+    <string name="please_enter_your_password">Senha incorreta. Por favor, digite sua senha novamente.</string>
+    <string name="please_enter_a_valid_email">Esse e-mail é inválido, por favor digite um e-mail válido</string>
+    <string name="text_is_very_small">Muito curto. Esse campo deve ter mais de 2 caracteres</string>
+    <string name="sign_up">Criar conta</string>
+    <string name="repeat_password">Repetir a senha</string>
+    <string name="type_the_password_again">Digite a senha novamente</string>
+    <string name="please_check_and_try_again">As senhas não correspondem. Por favor, verifique e tente novamente</string>
+    <string name="name">Nome</string>
+    <string name="type_your_name">Digite seu nome</string>
+
+    <string name="auth_error_email_empty">Oops! Parece que você esqueceu de digitar seu e-mail.</string>
+    <string name="auth_error_password_empty">Oops! Sua senha está vazia. Vamos preenchê-la!</string>
+    <string name="auth_error_invalid_email">E-mail inválido. Verifique se você digitou corretamente.</string>
+    <string name="auth_error_invalid_password">Senha inválida. Tente uma senha mais forte e segura.</string>
+    <string name="auth_error_credentials_incorrect">E-mail ou senha incorretos. Vamos tentar novamente.</string>
+    <string name="auth_error_email_already_registered">Esse e-mail já está registrado. Que tal fazer login?</string>
+    <string name="auth_error_generic">Oops! Parece que algo deu errado durante a autenticação.</string>
+    <string name="auth_error_authentication_expired">Sua sessão expirou. Vamos fazer login novamente.</string>
+    <string name="no_notes">Nenhuma anotação</string>
+    <string name="no_notes_message">Você ainda não tem nenhuma anotação. Clique no botão abaixo para começar a escrever suas notas.</string>
+    <string name="create_note">Criar nota</string>
+    <string name="save">Salvar</string>
+    <string name="add_new_note">Adicionar nova nota</string>
+    <string name="title_placeholder">Título...</string>
+    <string name="content_placeholder">Conteúdo...</string>
+
+
+</resources>
